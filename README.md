@@ -11,3 +11,9 @@ Sample rendering for the [Day One](http://dayoneapp.com) Markdown style used the
 ## Sample Render (from Day One Mac App 1.8)
 
 ![Day One Mac Markdown Sample Render](https://dl.dropboxusercontent.com/u/5401398/2013-Public/DOMarkdown-MacRenderSample.png)
+
+
+## Sources
+
+- [/vmg/sundown](https://github.com/vmg/sundown)
+- [/jgm/peg-markdown](https://github.com/jgm/peg-markdown)
