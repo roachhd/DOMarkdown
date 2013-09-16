@@ -21,6 +21,10 @@ body {
     color: #333;
 }
 
+/* Highlighed Text Color */
+
+::selection {background: #68C6DF; color:#FFFFFF;}
+
 /* EMBEDS */
 img {
     display: block;
@@ -136,17 +140,17 @@ dl,ol,ul,p,blockquote,pre {
 /* LISTS */
 
 ol,ul {
-    margin: .8em 0;
-    padding-left: 23px;
+    margin: .8em 1em;
+    padding-left: .8em;
 }
 
 ol li {
-    margin-left: .5em;
+    margin-left: 1em;
     margin-bottom: .3em;
 }
 
 ul li {
-    margin-left: .5em;
+    margin-left: 1em;
     margin-bottom: .3em;
 }
 
